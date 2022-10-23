@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/556336211.svg)](https://zenodo.org/badge/latestdoi/556336211)
 
 # Autonomous rhythmic activity in glioma networks drives brain tumor growth
 
@@ -10,20 +11,20 @@ Katherine Figarella(12), Matthias Osswald(1,2), Gergely Solecki(1,2,13), Felix S
 Olga Garaschuk(12), Thomas Kuner(3), Philipp Koch(4,5), Matthias Schlesner(6,14), Wolfgang Wick(1,2),
 Frank Winkler(1,2)*
 
-(1) Neurology Clinic and National Center for Tumor Diseases, University Hospital Heidelberg, Heidelberg, Germany.
-(2) Clinical Cooperation Unit Neurooncology, German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.
-(3) Department of Functional Neuroanatomy, Institute for Anatomy and Cell Biology, Heidelberg University, Heidelberg, Germany.
-(4) Central Institute of Mental Health, University of Heidelberg/Medical Faculty Mannheim, Mannheim, Germany.
-(5) Hector Institute for Translational Brain Research (HITBR gGmbH), Mannheim, Germany.
-(6) Bioinformatics and Omics Data Analytics, German Cancer Research Center (DKFZ), Heidelberg, Germany.
-(7) Department of Neuropathology, Institute of Pathology, Ruprecht-Karls University Heidelberg, Heidelberg, Germany.
-(8) Clinical Cooperation Unit Neuropathology, German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ),Heidelberg, Germany.
-(9) Department of Neuroradiology, Heidelberg University Hospital, University of Heidelberg, Heidelberg, Germany.
-(10)Neurosurgery Clinic, University Hospital Mannheim, Mannheim, Germany.
-(11)Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.
-(12)Institute of Physiology, Department of Neurophysiology, Eberhard Karls University of Tübingen, Tübingen, Germany.
-(13)Business Unit Service and Customer Care, Carl Zeiss Microscopy GmbH, 07745Jena, Germany.
-(14)Biomedical Informatics, Data Mining and Data Analytics, Augsburg University, Augsburg, Germany.
+(1)  Neurology Clinic and National Center for Tumor Diseases, University Hospital Heidelberg, Heidelberg, Germany.
+(2)  Clinical Cooperation Unit Neurooncology, German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.
+(3)  Department of Functional Neuroanatomy, Institute for Anatomy and Cell Biology, Heidelberg University, Heidelberg, Germany.
+(4)  Central Institute of Mental Health, University of Heidelberg/Medical Faculty Mannheim, Mannheim, Germany.
+(5)  Hector Institute for Translational Brain Research (HITBR gGmbH), Mannheim, Germany.
+(6)  Bioinformatics and Omics Data Analytics, German Cancer Research Center (DKFZ), Heidelberg, Germany.
+(7)  Department of Neuropathology, Institute of Pathology, Ruprecht-Karls University Heidelberg, Heidelberg, Germany.
+(8)  Clinical Cooperation Unit Neuropathology, German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ),Heidelberg, Germany.
+(9)  Department of Neuroradiology, Heidelberg University Hospital, University of Heidelberg, Heidelberg, Germany.
+(10) Neurosurgery Clinic, University Hospital Mannheim, Mannheim, Germany.
+(11) Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.
+(12) Institute of Physiology, Department of Neurophysiology, Eberhard Karls University of Tübingen, Tübingen, Germany.
+(13) Business Unit Service and Customer Care, Carl Zeiss Microscopy GmbH, 07745Jena, Germany.
+(14) Biomedical Informatics, Data Mining and Data Analytics, Augsburg University, Augsburg, Germany.
 +These authors contributed equally to this work. , *Correspondence to: frank.winkler@med.uni-heidelberg.de
 
 Glioblastoma cell networks harbor a plastic population of highly active glioblastoma cells that display rhythmic Ca2+ oscillations and are particularly connected to others.
@@ -31,5 +32,5 @@ Targeting the autonomous rhythmic activity of periodic tumor cells by pharmacolo
 This led to a marked reduction of tumor cell viability within the entire network, reduced tumor growth in mice, and prolonged animal survival.
 The dependency of glioblastoma networks on periodic Ca2+ activity generates a vulnerability that can be exploited for the development of novel therapies, with KCa3.1 inhibiting drugs as one example.
 
-To allow reproduction of the performed analysis of microscope images we provide the codes.
+To allow reproduction of the performed analysis of microscope images we here provide the codes.
 Importantly, the Fiji macro needs to be run first and the Matlab codes second.
